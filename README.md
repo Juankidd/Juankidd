@@ -7,7 +7,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Juankidd-181717?style=for-the-badge&logo=github)](https://github.com/Juankidd)
 [![YouTube](https://img.shields.io/badge/YouTube-DoctorCódigo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@doctorcodigo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Núñez-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/juanu%C3%B1ezv/)
-[![Google Scholar](https://img.shields.io/badge/[Google%20Scholar-Publicaciones-4285F4?style=for-the-badge&logo=googlescholar](https://scholar.google.es/citations?user=PznK1bgAAAAJ&hl=es))]([[http://bit.ly/4fX8cwt](https://scholar.google.es/citations?user=PznK1bgAAAAJ&hl=es)](https://scholar.google.es/citations?user=PznK1bgAAAAJ&hl=es))
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publicaciones-4285F4?style=for-the-badge&logo=googlescholar)](https://scholar.google.es/citations?user=PznK1bgAAAAJ&hl=es)
 
 </div>
 
@@ -123,7 +123,7 @@ Co-founder de **Kaismart Solutions SAS** y consultor en:
 # 📚 Publicaciones
 
 📖 Google Scholar:  
-👉 http://bit.ly/4fX8cwt
+👉 https://scholar.google.es/citations?user=PznK1bgAAAAJ&hl=es
 
 ---
 
@@ -182,9 +182,10 @@ Comparto contenido sobre:
 # 🤝 Conecta conmigo
 
 📩 Email: juanmanuel.nunezv@gmail.com  
+💻 GitHub: https://github.com/Juankidd  
 💼 LinkedIn: https://www.linkedin.com/in/juanu%C3%B1ezv/  
 📺 YouTube: https://www.youtube.com/@doctorcodigo  
-💻 GitHub: https://github.com/Juankidd
+📚 Google Scholar: https://scholar.google.es/citations?user=PznK1bgAAAAJ&hl=es
 
 ---
 
